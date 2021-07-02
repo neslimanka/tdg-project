@@ -27,7 +27,8 @@ import { IvmeIkiComponent } from './ivmeIki/ivmeIki.component';
     FormsModule,
     NgChartjsModule,
     ChartsModule,
-    CommonModule
+    CommonModule,
+    
     
     
    
